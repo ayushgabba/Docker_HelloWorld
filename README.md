@@ -98,6 +98,6 @@ CMD ["python", "app.py"]
 Once you run the container, you should see the following output:
 
 ```
-Hello, World from Docker!
+Hello World! 🌍
 ```
 
